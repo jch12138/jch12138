@@ -1,19 +1,10 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Chenway</h1>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <a href="https://reddit.com/u/macropower">
+    <img alt="Reddit User Karma" src="https://img.shields.io/github/stars/jch12138?affiliations=OWNER%2CCOLLABORATOR">
   </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/jch12138?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jch12138?color=green&logo=github">
   </a>
 
