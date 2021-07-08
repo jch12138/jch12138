@@ -26,10 +26,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jch12138&show_icons=true&count_private=true&include_all_commits=true" alt="jch12138" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently studying at **XMU**
-- :seedling: &nbsp;I’m currently learning **Machine Learning**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-
+- 👨‍🏛 I'm currently a student at **XMU**.
+- 💻 Major is automation.
+- 🌱 I'm currently learning **Machine Learning**. 
+- 🤔 My hobbies are **badminton🏸，Table Tennis🏓，Tennis🎾**.
+- 💼 I am an **obsessive-compulsive disorder**.
+- 💬 If you have any questions, **just contact me**.
+- 📫 Please contact me via email:
+- Qmail: 1099481194@qq.com. 
+- Gmail: jch12138@gmail.com.
 ### 📊 Github Stats
 <a href='https://github.com/jch12138/github-stats-transparent'>
   
