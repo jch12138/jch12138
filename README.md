@@ -19,10 +19,7 @@
 - 🌱 I'm currently learning **Machine Learning**. 
 - 🤔 My hobbies are **badminton🏸，Table Tennis🏓，Tennis🎾**.
 - 💼 I am an **obsessive-compulsive disorder**.
-- 💬 If you have any questions, **just contact me**.
-- 📫 Please contact me via email:
-- Qmail: 1099481194@qq.com. 
-- Gmail: jch12138@gmail.com.
+
 ### 📊 Github Stats
 <a href='https://github.com/jch12138/github-stats-transparent'>
   
